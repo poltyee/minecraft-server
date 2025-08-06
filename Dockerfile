@@ -1,0 +1,7 @@
+FROM itzg/minecraft-server
+
+ENV EULA=TRUE
+ENV VERSION=1.20.8
+ENV TYPE=PAPER
+ENV MEMORY=1G
+
